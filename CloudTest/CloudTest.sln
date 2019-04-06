@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudTest", "CloudTest\CloudTest.csproj", "{CCBF21EC-B8DE-400A-8D83-515A8AF9B97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBF21EC-B8DE-400A-8D83-515A8AF9B97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBF21EC-B8DE-400A-8D83-515A8AF9B97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBF21EC-B8DE-400A-8D83-515A8AF9B97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBF21EC-B8DE-400A-8D83-515A8AF9B97B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C422AE0-F2C4-4EA0-AAB0-85F97937ABC0}
+	EndGlobalSection
+EndGlobal
